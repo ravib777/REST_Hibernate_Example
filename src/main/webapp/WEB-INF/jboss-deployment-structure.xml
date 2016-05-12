@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-deployment-structure>
+
+	<deployment>
+
+		<dependencies>
+			<module name="org.jboss.resteasy.resteasy-jaxrs" />
+			<module name="org.hibernate" />
+			<module name="com.postgres" />
+			<module name="com.google.gson" />
+		</dependencies>
+
+	</deployment>
+
+</jboss-deployment-structure>
